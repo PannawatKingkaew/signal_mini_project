@@ -12,4 +12,4 @@
   -    โปรแกรมสามารถแสดงผลตอบสนองต่อสัญญาณ input เป็นรูปกราฟในช่วงเวลาที่ผู้ใช้กำหนดได้
   -    โปรแกรมสามารถแสดงรูปกราฟสำหรับ Frequency Response ได้
 
-วิดีโอแนะนำโปรแกรม: https://www.youtube.com/watch?v=055pjiWczdI 
+วิดีโอแนะนำโปรแกรม: https://www.youtube.com/watch?v=_pLLP9olsXQ
