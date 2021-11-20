@@ -1,4 +1,4 @@
-# Mini-Project: การสร้าง GUI Application ด้วย MATLAP App Designer
+# Mini-Project: การสร้าง GUI Application ด้วย MATLAB App Designer
 
 
 ![image](https://user-images.githubusercontent.com/69412320/142651661-c45f3f7b-927c-4df1-a015-2a53c7e4ce67.png)
